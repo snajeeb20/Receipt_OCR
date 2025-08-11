@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+python-dotenv
+numpy
+pillow
+opencv-python-headless
+pytesseract
+easyocr
+openai
+python-multipart
